@@ -1,0 +1,2 @@
+[1017/153304.351:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ghara\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\12e3c72a-3cb3-4cf6-a13a-a66e22fb06cc: The system cannot find the path specified. (0x3)
+[1017/153304.888:ERROR:process_reader_win.cc(155)] SuspendThread: Access is denied. (0x5)
